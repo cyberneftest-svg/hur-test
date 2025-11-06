@@ -4,7 +4,7 @@ const page = () => {
   return (
 
     <div className="flex flex-col items-center justify-center h-screen">
-        <h1 className="text-2xl font-bold mb-4">Login</h1>
+        <h1 className="text-2xl font-bold mb-4">Register</h1>
         <form className="flex flex-col w-80">
             <input type="text" placeholder="Name" className="mb-2 p-2 text-lg border border-gray-300 rounded" />
             <input type="email" placeholder="Email" className="mb-2 p-2 text-lg border border-gray-300 rounded" />
