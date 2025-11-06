@@ -2,7 +2,6 @@ import React from 'react'
 
 const page = () => {
   return (
-
     <div className="flex flex-col items-center justify-center h-screen">
         <h1 className="text-2xl font-bold mb-4">Register</h1>
         <form className="flex flex-col w-80">
